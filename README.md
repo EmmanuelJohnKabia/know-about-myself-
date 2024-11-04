@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 # User information dictionary
 user_info = {
-    "name": "Emmanauel John Kabia",
+    "name": "The name",
     "age": 19,
     "height": "6'3",
     "weight": "I don't know",
@@ -16,10 +16,10 @@ user_info = {
     "favorite_sport": "Basketball",
     "favorite_team": "Barcelona",
     "relationship_status": "Single",
-    "email": "emmanueljohnkabia@email.com",
-    "phone_number": "571-462-9013",
+    "email": "132435754@email.com",
+    "phone_number": "2034581-21",
     "address": "R Don Forget",
-    "socials": "emmanjohn_x"
+    "socials": "social"
 }
 
 def welcome_user():
